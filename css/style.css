@@ -1,0 +1,71 @@
+#header-logo{
+	font-size: 18px;
+}
+header, main, footer {
+   padding-left: 300px;
+ }
+
+@media only screen and (max-width : 992px) {
+    header, main, footer {
+       padding-left: 0;
+    }
+}
+
+.sidenav-trigger{
+	position: fixed;
+	left: 0pt;
+}
+.right{
+	padding-right: 300px;
+}
+.parallax-title{
+	margin-top: 160px;
+	font-family: impact;
+	font-weight: 900;
+	font-style: inherit;
+	font-style: italic;
+}
+
+.side-edit{
+	color: white;
+}
+.acadêmicas{
+	background-color: #9fa8da;
+}
+
+#dropdown-site{
+	top: 64px !important;
+}
+.tabs{
+	font-weight: bold;
+}
+.edicao{
+	font-family: arial;
+}
+
+.btn_voltar{
+	position: fixed;
+	bottom: 4%;
+	right: 3%;
+}
+
+h4{
+	text-align: center;
+	padding-bottom: 8px;
+}
+
+.Formações{
+	text-align: center;
+	font-weight: bold;
+
+}
+.Detalhes_mim{
+	text-align: center;
+	font-size: 22px;
+}
+.sidenav{
+	background-color: #e1bee7;
+}
+.modal-content{
+	font-weight: bold;
+}
